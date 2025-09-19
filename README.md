@@ -33,4 +33,4 @@ pip install PyQt5 pillow
 ```
 python image_compressor.py
 ```
-## 构建可执行文件
+
